@@ -11,7 +11,7 @@ export default function Landing() {
         text-align: center;
         color: palevioletred;
     `;
-    
+
     return (
         <Container>
             <Title>

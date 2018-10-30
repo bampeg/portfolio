@@ -5,7 +5,7 @@ import Landing from './sections/Landing'
 class App extends Component {
   render() {
     return (
-      <Landing/>
+      <Landing />
     );
   }
 }
